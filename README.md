@@ -27,7 +27,7 @@ Both concepts are crucial in theoretical computer science and lay the foundation
 This repository contains two main C++ programs:
 1. **Finite Automata Simulation**: A C++ program to simulate the behavior of deterministic finite automata, where each input string is evaluated for acceptance or rejection by the automaton.
    
-2. **Context-Free Grammar Parser**: A C++ program that checks the validity of strings based on a given context-free grammar. This involves parsing input strings and determining whether they belong to the language described by the grammar.
+2. **Context-Free Grammar Parser**: A C++ program that checks strings' validity based on context-free grammar. This involves parsing input strings and determining whether they belong to the language the grammar describes.
 
 ### Features:
 - DFA transition simulation based on state diagrams.
@@ -48,4 +48,4 @@ To run the code on your machine, follow these steps:
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/automata-simulation.git
+   git clone https://github.com/JuneshG/Theory-of-Computation/tree/main
